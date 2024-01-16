@@ -3,7 +3,7 @@
 
 A web application, which you can use as a to do list. With this list, you can add new tasks, mark them as done and delete them.
 
-<img width="1440" alt="To do list" src="">
+<img width="1440" alt="Снимок экрана 2024-01-16 в 16 47 51" src="https://github.com/elvina-s/todolistapp/assets/149134113/fbdecf93-e040-486a-a607-1c0367d16f7a">
 
 ## What is it made with?
 
