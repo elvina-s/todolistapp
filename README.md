@@ -11,7 +11,7 @@ React.
 
 ## Installation
 
-To view and use the website, click this link: https://swanky-long-brook.glitch.me](https://friendly-licorice-56efc5.netlify.app/.
+To view and use the website, click this link: https://friendly-licorice-56efc5.netlify.app.
 This is the link of the To Do List's app.
 
 ## Usage
